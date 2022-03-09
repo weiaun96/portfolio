@@ -1,4 +1,4 @@
-# Wei_Aun Data Science Portfolio
+# Wei Aun's Data Science Portfolio
 
 ## [Project 1: Machine Learning for Uber Lyft rides Price Prediction](https://github.com/weiaun96/uber-lyft-price-prediction-models)
 Doing price prediction for Uber and Lyft rides by using R
@@ -11,3 +11,7 @@ Doing price prediction for Uber and Lyft rides by using R
 Doing loan approval status prediction based on the characteristics of loan applicants
 - This project was done as an academic assignment for Data Analytical Programming.
 - It was done using SAS studio.
+
+## [Project 3: Application of Sentiment Analysis for E-commerce Recommendation System](https://github.com/weiaun96/Sentiment-Analysis-in-Recommender-System)
+I am currently doing my capstone project for my masters program. With the aim of creating a recommendation system based on sentiment analysis, sentiment scores are extracted from Amazon outdoors product reviews and the results were input as part of the recommendation system for users.
+- The dataset used was retrieved from [here](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt).
