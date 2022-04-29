@@ -12,7 +12,7 @@ Doing loan approval status prediction based on the characteristics of loan appli
 - This project was done as an academic assignment for Data Analytical Programming.
 - It was done using SAS studio.
 
-## [Project 3: Application of Sentiment Analysis for E-commerce Recommendation System](https://github.com/weiaun96/Sentiment-Analysis-in-Recommender-System)
+## [Project 3: Application of Sentiment Analysis for E-commerce Recommendation System](https://github.com/weiaun96/ecommerce-recommendation-web-app)
 I am currently doing my capstone project for my masters program. With the aim of creating a recommendation system based on sentiment analysis, sentiment scores are extracted from Amazon outdoors product reviews and the results were input as part of the recommendation system for users.
 - The dataset used was retrieved from [here](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt).
 - You can try out the app [here](https://share.streamlit.io/weiaun96/ecommerce-recommendation-web-app/main/web_app.py)!
